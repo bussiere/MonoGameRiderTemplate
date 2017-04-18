@@ -1,0 +1,7 @@
+/home/bussiere/RiderProjects/Example/Example/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bussiere/RiderProjects/Example/Example/bin/Debug/Example.exe.mdb
+/home/bussiere/RiderProjects/Example/Example/bin/Debug/Example.exe
+/home/bussiere/RiderProjects/Example/Example/obj/Debug/Example.exe
+/home/bussiere/RiderProjects/Example/Example/obj/Debug/Example.exe.mdb
+/home/bussiere/RiderProjects/Example/Example/bin/Debug/MonoGame.Framework.dll
+/home/bussiere/RiderProjects/Example/Example/bin/Debug/Newtonsoft.Json.dll
