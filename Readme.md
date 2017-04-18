@@ -1,0 +1,1 @@
+An empty template for using monogame with Rider on Ubuntu 16.04
