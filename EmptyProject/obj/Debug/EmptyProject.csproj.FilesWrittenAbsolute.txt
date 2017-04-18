@@ -1,0 +1,6 @@
+/home/bussiere/RiderProjects/EmptyProject/EmptyProject/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bussiere/RiderProjects/EmptyProject/EmptyProject/bin/Debug/EmptyProject.dll.mdb
+/home/bussiere/RiderProjects/EmptyProject/EmptyProject/bin/Debug/EmptyProject.dll
+/home/bussiere/RiderProjects/EmptyProject/EmptyProject/obj/Debug/EmptyProject.dll
+/home/bussiere/RiderProjects/EmptyProject/EmptyProject/obj/Debug/EmptyProject.dll.mdb
+/home/bussiere/RiderProjects/EmptyProject/EmptyProject/bin/Debug/MonoGame.Framework.dll

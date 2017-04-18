@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e322da2-1871-4ad6-809c-bc773ed0d925" name="Default" comment="" />
+    <list default="true" id="7e322da2-1871-4ad6-809c-bc773ed0d925" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.EmptyProject/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.EmptyProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.EmptyProject/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EmptyProject/EmptyProject.cs" afterPath="$PROJECT_DIR$/EmptyProject/EmptyProject.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EmptyProject/EmptyProject.csproj" afterPath="$PROJECT_DIR$/EmptyProject/EmptyProject.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EmptyProject/Program.cs" afterPath="$PROJECT_DIR$/EmptyProject/Program.cs" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,46 +18,70 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EmptyProject/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="40">
+              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
               <folding>
-                <marker date="1492553992406" expanded="true" signature="86:236" ph="{...}" />
-                <marker date="1492553992406" expanded="true" signature="139:230" ph="{...}" />
+                <marker date="1492554636542" expanded="true" signature="36:222" ph="{...}" />
+                <marker date="1492554636542" expanded="true" signature="70:220" ph="{...}" />
+                <marker date="1492554636542" expanded="true" signature="123:214" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmptyProject.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EmptyProject.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EmptyProject/EmptyProject.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="140">
+              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
-                <marker date="1492553943672" expanded="true" signature="6:107" ph="..." />
-                <marker date="1492553943672" expanded="true" signature="127:1159" ph="{...}" />
-                <marker date="1492553943672" expanded="true" signature="159:1157" ph="{...}" />
-                <marker date="1492553943672" expanded="true" signature="262:385" ph="{...}" />
-                <marker date="1492553943672" expanded="true" signature="431:482" ph="{...}" />
-                <marker date="1492553943672" expanded="true" signature="529:608" ph="{...}" />
-                <marker date="1492553943672" expanded="true" signature="657:677" ph="{...}" />
-                <marker date="1492553943672" expanded="true" signature="736:985" ph="{...}" />
-                <marker date="1492553943672" expanded="true" signature="1042:1151" ph="{...}" />
+                <marker date="1492554636554" expanded="true" signature="6:107" ph="..." />
+                <marker date="1492554636554" expanded="true" signature="131:1163" ph="{...}" />
+                <marker date="1492554636554" expanded="true" signature="163:1161" ph="{...}" />
+                <marker date="1492554636554" expanded="true" signature="266:389" ph="{...}" />
+                <marker date="1492554636554" expanded="true" signature="435:486" ph="{...}" />
+                <marker date="1492554636554" expanded="true" signature="533:612" ph="{...}" />
+                <marker date="1492554636554" expanded="true" signature="661:681" ph="{...}" />
+                <marker date="1492554636554" expanded="true" signature="740:989" ph="{...}" />
+                <marker date="1492554636554" expanded="true" signature="1046:1155" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packages.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EmptyProject/packages.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonoGame.Framework.dll.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EmptyProject/MonoGame.Framework.dll.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EmptyProject/EmptyProject.cs" />
         <option value="$PROJECT_DIR$/EmptyProject/Program.cs" />
+        <option value="$PROJECT_DIR$/EmptyProject/EmptyProject.cs" />
       </list>
     </option>
   </component>
@@ -67,6 +97,7 @@
     <option name="width" value="1281" />
     <option name="height" value="704" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -203,12 +234,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492552736231</updated>
       <workItem from="1492552740982" duration="213000" />
-      <workItem from="1492553743739" duration="439000" />
+      <workItem from="1492553743739" duration="1145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="652000" />
+    <option name="totallyTimeSpent" value="1358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -226,10 +257,10 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294509" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -257,31 +288,48 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EmptyProject/Program.cs">
+    <entry file="file://$PROJECT_DIR$/EmptyProject/packages.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <marker date="1492553992406" expanded="true" signature="86:236" ph="{...}" />
-            <marker date="1492553992406" expanded="true" signature="139:230" ph="{...}" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmptyProject/MonoGame.Framework.dll.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EmptyProject/EmptyProject.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="140">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
-            <marker date="1492553943672" expanded="true" signature="6:107" ph="..." />
-            <marker date="1492553943672" expanded="true" signature="127:1159" ph="{...}" />
-            <marker date="1492553943672" expanded="true" signature="159:1157" ph="{...}" />
-            <marker date="1492553943672" expanded="true" signature="262:385" ph="{...}" />
-            <marker date="1492553943672" expanded="true" signature="431:482" ph="{...}" />
-            <marker date="1492553943672" expanded="true" signature="529:608" ph="{...}" />
-            <marker date="1492553943672" expanded="true" signature="657:677" ph="{...}" />
-            <marker date="1492553943672" expanded="true" signature="736:985" ph="{...}" />
-            <marker date="1492553943672" expanded="true" signature="1042:1151" ph="{...}" />
+            <marker date="1492554636554" expanded="true" signature="6:107" ph="..." />
+            <marker date="1492554636554" expanded="true" signature="131:1163" ph="{...}" />
+            <marker date="1492554636554" expanded="true" signature="163:1161" ph="{...}" />
+            <marker date="1492554636554" expanded="true" signature="266:389" ph="{...}" />
+            <marker date="1492554636554" expanded="true" signature="435:486" ph="{...}" />
+            <marker date="1492554636554" expanded="true" signature="533:612" ph="{...}" />
+            <marker date="1492554636554" expanded="true" signature="661:681" ph="{...}" />
+            <marker date="1492554636554" expanded="true" signature="740:989" ph="{...}" />
+            <marker date="1492554636554" expanded="true" signature="1046:1155" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmptyProject/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding>
+            <marker date="1492554636542" expanded="true" signature="36:222" ph="{...}" />
+            <marker date="1492554636542" expanded="true" signature="70:220" ph="{...}" />
+            <marker date="1492554636542" expanded="true" signature="123:214" ph="{...}" />
           </folding>
         </state>
       </provider>

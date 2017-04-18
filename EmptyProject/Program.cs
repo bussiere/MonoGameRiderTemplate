@@ -1,7 +1,6 @@
 using System;
-namespace Example1
+namespace EmptyProject
 {
-if WINDOWS || LINUX
     public static class Program
     {
         [STAThread]
@@ -11,5 +10,4 @@ if WINDOWS || LINUX
                 game.Run();
         }
     }
-endif
 }
