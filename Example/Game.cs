@@ -12,6 +12,7 @@ namespace Example
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
+            graphics.PreferMultiSampling = false;
             Content.RootDirectory = "Content";
         }
 

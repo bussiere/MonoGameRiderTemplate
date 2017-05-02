@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8f0d42-f9da-4a64-b9bc-d1f621e0f84b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Example/bin/Debug/Example.exe" afterPath="$PROJECT_DIR$/Example/bin/Debug/Example.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Example/bin/Debug/Example.exe.mdb" afterPath="$PROJECT_DIR$/Example/bin/Debug/Example.exe.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Example/obj/Debug/Example.exe" afterPath="$PROJECT_DIR$/Example/obj/Debug/Example.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Example/obj/Debug/Example.exe.mdb" afterPath="$PROJECT_DIR$/Example/obj/Debug/Example.exe.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Example/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Example/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Example/Game.cs" afterPath="$PROJECT_DIR$/Example/Game.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Example/MonoGame.Framework.dll.config" afterPath="$PROJECT_DIR$/Example/MonoGame.Framework.dll.config" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,26 +25,31 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
               <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-              <folding />
+              <folding>
+                <marker date="1492556525350" expanded="true" signature="31:217" ph="{...}" />
+                <marker date="1492556525350" expanded="true" signature="65:215" ph="{...}" />
+                <marker date="1492556525350" expanded="true" signature="118:209" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Game.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Game.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Example/Game.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="280">
+              <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
               <folding>
-                <marker date="1492556648382" expanded="false" signature="6:107" ph="..." />
-                <marker date="1492556648382" expanded="true" signature="158:1156" ph="{...}" />
-                <marker date="1492556648382" expanded="true" signature="261:384" ph="{...}" />
-                <marker date="1492556648382" expanded="true" signature="430:481" ph="{...}" />
-                <marker date="1492556648382" expanded="true" signature="528:607" ph="{...}" />
-                <marker date="1492556648382" expanded="true" signature="656:676" ph="{...}" />
-                <marker date="1492556648382" expanded="true" signature="735:984" ph="{...}" />
-                <marker date="1492556648382" expanded="true" signature="1041:1150" ph="{...}" />
-                <marker date="1492556648382" expanded="true" signature="1181:1194" ph="{...}" />
+                <marker date="1493731935180" expanded="true" signature="6:107" ph="..." />
+                <marker date="1493731935180" expanded="true" signature="126:1246" ph="{...}" />
+                <marker date="1493731935180" expanded="true" signature="158:1206" ph="{...}" />
+                <marker date="1493731935180" expanded="true" signature="261:434" ph="{...}" />
+                <marker date="1493731935180" expanded="true" signature="480:531" ph="{...}" />
+                <marker date="1493731935180" expanded="true" signature="578:657" ph="{...}" />
+                <marker date="1493731935180" expanded="true" signature="706:726" ph="{...}" />
+                <marker date="1493731935180" expanded="true" signature="785:1034" ph="{...}" />
+                <marker date="1493731935180" expanded="true" signature="1091:1200" ph="{...}" />
+                <marker date="1493731935180" expanded="true" signature="1231:1244" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -55,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MonoGame.Framework.dll.config" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MonoGame.Framework.dll.config" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Example/MonoGame.Framework.dll.config">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="107" lean-forward="false" selection-start-line="4" selection-start-column="107" selection-end-line="4" selection-end-column="107" />
+            <state relative-caret-position="160">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -82,6 +92,12 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.PreferMultiSampling</find>
+      <find>PreferMultiSampling</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -91,6 +107,7 @@
         <option value="$PROJECT_DIR$/Example/Program.cs" />
         <option value="$PROJECT_DIR$/Example/Class1.cs" />
         <option value="$PROJECT_DIR$/Example/MonoGame.Framework.dll.config" />
+        <option value="$PROJECT_DIR$/Example/Game.cs" />
       </list>
     </option>
   </component>
@@ -267,11 +284,12 @@
       <updated>1492556370391</updated>
       <workItem from="1492556371798" duration="2737000" />
       <workItem from="1492623981705" duration="810000" />
+      <workItem from="1493731460229" duration="514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3547000" />
+    <option name="totallyTimeSpent" value="4061000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -284,14 +302,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -299,6 +316,7 @@
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -306,7 +324,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -325,7 +342,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
+          <folding>
+            <marker date="1492556525350" expanded="true" signature="31:217" ph="{...}" />
+            <marker date="1492556525350" expanded="true" signature="65:215" ph="{...}" />
+            <marker date="1492556525350" expanded="true" signature="118:209" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -334,15 +355,76 @@
         <state relative-caret-position="40">
           <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding>
-            <marker date="1492556648382" expanded="false" signature="6:107" ph="..." />
-            <marker date="1492556648382" expanded="true" signature="158:1156" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="261:384" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="430:481" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="528:607" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="656:676" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="735:984" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="1041:1150" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="1181:1194" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="6:107" ph="..." />
+            <marker date="1493731935180" expanded="true" signature="126:1246" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="158:1206" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="261:434" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="480:531" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="578:657" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="706:726" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="785:1034" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="1091:1200" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="1231:1244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1492556374245" expanded="false" signature="6:101" ph="..." />
+            <marker date="1492556374245" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1492556374245" expanded="true" signature="591:801" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1492556374245" expanded="true" signature="976:1303" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example/MonoGame.Framework.dll.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="107" lean-forward="false" selection-start-line="4" selection-start-column="107" selection-end-line="4" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example/Example.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <marker date="1492556525350" expanded="true" signature="31:217" ph="{...}" />
+            <marker date="1492556525350" expanded="true" signature="65:215" ph="{...}" />
+            <marker date="1492556525350" expanded="true" signature="118:209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1493731935180" expanded="true" signature="6:107" ph="..." />
+            <marker date="1493731935180" expanded="true" signature="126:1246" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="158:1206" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="261:434" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="480:531" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="578:657" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="706:726" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="785:1034" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="1091:1200" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="1231:1244" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -376,32 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Example/Example.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Example/Game.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <marker date="1492556648382" expanded="false" signature="6:107" ph="..." />
-            <marker date="1492556648382" expanded="true" signature="158:1156" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="261:384" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="430:481" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="528:607" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="656:676" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="735:984" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="1041:1150" ph="{...}" />
-            <marker date="1492556648382" expanded="true" signature="1181:1194" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Example/Properties/AssemblyInfo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -415,6 +471,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Example/MonoGame.Framework.dll.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Example/packages.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -423,11 +487,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Example/MonoGame.Framework.dll.config">
+    <entry file="file://$PROJECT_DIR$/Example/Example.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="107" lean-forward="false" selection-start-line="4" selection-start-column="107" selection-end-line="4" selection-end-column="107" />
-          <folding />
+        <state relative-caret-position="20">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <marker date="1492556525350" expanded="true" signature="31:217" ph="{...}" />
+            <marker date="1492556525350" expanded="true" signature="65:215" ph="{...}" />
+            <marker date="1492556525350" expanded="true" signature="118:209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <marker date="1493731935180" expanded="true" signature="6:107" ph="..." />
+            <marker date="1493731935180" expanded="true" signature="126:1246" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="158:1206" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="261:434" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="480:531" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="578:657" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="706:726" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="785:1034" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="1091:1200" ph="{...}" />
+            <marker date="1493731935180" expanded="true" signature="1231:1244" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
